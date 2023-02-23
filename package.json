@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/milan44i/Guess-my-number.git"
+    "url": "https://github.com/milan44i/guess-my-number.git"
   },
   "author": "Milan Stankovic",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/milan44i/Guess-my-number/issues"
+    "url": "https://github.com/milan44i/guess-my-number/issues"
   },
-  "homepage": "https://github.com/milan44i/Guess-my-number#readme",
+  "homepage": "https://github.com/milan44i/guess-my-number#readme",
   "dependencies": {
     "lodash": "^4.17.21"
   },

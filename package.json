@@ -1,0 +1,25 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "game where you guess the number between 1 and 20",
+  "default": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milan44i/Guess-my-number.git"
+  },
+  "author": "Milan Stankovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milan44i/Guess-my-number/issues"
+  },
+  "homepage": "https://github.com/milan44i/Guess-my-number#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
